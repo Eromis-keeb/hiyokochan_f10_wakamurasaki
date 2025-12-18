@@ -629,7 +629,8 @@ M2ネジ（３−５mm）を使って固定していきます。<br/>
 
 必要に応じて後述するミドルプレートを好みに彩ったりと楽しんでいただければと。<br/>
 お疲れ様でした！！<br/>
-![IMG_7168](https://github.com/user-attachments/assets/40c93db5-04c7-4770-9d93-bf247aee19b2)
+![IMG_7524](https://github.com/user-attachments/assets/468e25ea-54e5-486f-93d6-9573ffae907b)
+
 <br/>
 <br/>
 <br/>
