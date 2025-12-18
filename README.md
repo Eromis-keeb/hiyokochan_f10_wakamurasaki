@@ -1,5 +1,6 @@
-![IMG_6675](https://github.com/user-attachments/assets/0ad98b09-6703-48db-b49a-03584369a2b4)
-# 若紫、夕顔,松風/ hiyokochan_f10, hiyokochan_n11, hiyokochan_f10tg 共通 ビルドガイド
+![IMG_7523](https://github.com/user-attachments/assets/d4d43ece-ee6e-4344-96e7-f05b38fbfb13)
+
+# 若紫,夕顔,松風/ hiyokochan_f10, hiyokochan_n11, hiyokochan_f10tg 共通 ビルドガイド
 若紫/hiyokochan_f10tgは以下の特徴を備えるマクロパッドです。
 - テンキー配列の10キー
 - 3つのロータリーエンコーダー（プッシュボタン付き）
