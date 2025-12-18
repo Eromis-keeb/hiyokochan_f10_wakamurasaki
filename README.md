@@ -1,9 +1,9 @@
 ![IMG_6675](https://github.com/user-attachments/assets/0ad98b09-6703-48db-b49a-03584369a2b4)
-# 夕顔,松風,若紫 / hiyokochan_f10, hiyokochan_n11, hiyokochan_f10tg 共通 ビルドガイド
-夕顔/hiyokochan_f10は以下の特徴を備えるマクロパッドです。
+# 若紫、夕顔,松風/ hiyokochan_f10, hiyokochan_n11, hiyokochan_f10tg 共通 ビルドガイド
+若紫/hiyokochan_f10tgは以下の特徴を備えるマクロパッドです。
 - テンキー配列の10キー
 - 3つのロータリーエンコーダー（プッシュボタン付き）
-- ３つのトグルスイッチによる機能変更（レイヤー変更）
+- 4つのトグルスイッチによる機能変更（レイヤー変更）
 - 現在の機能把握に便利なLED
 インジケーター
 - 自由に柄など（0.5mm以下の紙など）をあしらえる額縁プレート（夕顔、松風、若紫のみ）
@@ -22,7 +22,7 @@ vialのソフトウェアから自由にキーマップを変更可能です。
 
 部品|個数
 --|--
-hiyokochan_f10/夕顔 基板|x1
+hiyokochan_f10tg/若紫 基板|x1
 トッププレート（アクリル）|x1
 ミドルプレート上|x1
 ミドルプレート下|x1
@@ -42,8 +42,7 @@ SMDダイオード |x13
 EC12互換ロータリーエンコーダ(プッシュスイッチ付き)※遊舎工房さんの高さ17.5mmの物を想定 |x3
 チップ抵抗 2012 1KΩ |x2
 MOSFET 50V300mA BSS138 |x1
-トグルスイッチ|x3
-OLED用ソケット |x1
+トグルスイッチ|x4
 スペーサー（9mm）|x8
 M2ネジ（3−5mm）|x8
 M2ネジ（5-8mm）|x8
@@ -51,10 +50,8 @@ MXキースイッチ |x11
 MXキーキャップ |x11
 ロータリーエンコーダーノブ（直径17mmくらいまで）|x3
 ゴム脚 |x2〜４
-AZ1UBALL |x1
 
 部品はTALPKEYBOARDさん、遊舎工房さん、秋月電子通商さん、マルツオンラインさんで調達しています。<br/>
-AZ1UBALLについてはパレットシステム様よりご購入願います。https://palette-system.booth.pm/items/4202085
 <br/>
 <br/>
 ## 組み立て
@@ -366,23 +363,6 @@ Millmaxを使う場合はロータリーエンコーダーは脱着が可能で�
 <br/>
 <br/>
 
-#### 5-3.AZ1UBALLの台の取り付け
-
-![491DFD50-61C6-4778-B75B-11053C33963A_1_105_c](https://github.com/user-attachments/assets/b7a278fa-1c45-47a6-b36e-14ecaac5afa9)\
-
-AZ1UBALLをマウントする為の”台”（青枠内オレンジ枠の部分）をOLED用ソケットを使って作ります。<br/>
-AZ1UBALLは高さ2.5mmのコンスルーを使って基板に固定しますが、OLED用ソケットはコンスルーを付ける方とは”逆の”位置に裏面からはんだ付けしてください。<br/>
-<br/>
-<br/>
-<br/>
-![6D746D38-D1F0-493A-B5F5-37F72EFCED9E_1_105_c](https://github.com/user-attachments/assets/e08a0f56-c813-42a5-978a-5430d32cd9d2)\
-![58DC0DC5-51D2-4341-A366-CE6BC40F6838_1_105_c](https://github.com/user-attachments/assets/8244aff5-a5ba-4269-9f74-bfc0dca34d2e)\
-
-”台”の取り付け位置とコンスルー取り付け位置に注意してください。それぞれ”逆”の位置になります。<br/>
-AZ1UBALLはビルドガイドに従って組み立てておいてください。<br/>
-https://github.com/palette-system/az1uball.git<br/>
-
-尚、AZ1UBALLは取り付けなくてもマクロパッド自体は動作しますので必要ない場合は取り付けなくてもOKです。<br/>
 
 ### 6.マイコン(RP2040−ZERO)の取り付け
 <br/>
