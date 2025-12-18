@@ -737,7 +737,8 @@ M2ネジ（３−５mm）を使って固定していきます。<br/>
 折り紙としては少々高いですが、その分の価値はあります。<br/>
 是非とも色々な組み合わせを試していただきたいです。<br/>
 素敵なのが出来上がったらSNS等で共有していただけるととても嬉しいです。<br/>
-![IMG_7189](https://github.com/user-attachments/assets/c632f048-5da7-47fb-b099-bceea6f57e60)<br/>
+<br/>![IMG_7086](https://github.com/user-attachments/assets/f25e8529-700f-47ea-b31b-9713d282fd34)
+
 <br/>
 <br/>
 <br/>
