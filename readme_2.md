@@ -385,8 +385,30 @@ https://note.com/eromis_sumomorry/n/nddd1c667d807?sub_rt=share_pw <br/>
 <br/>
 <br/>
 
-
+座金が落下しないようにボルトの頭を下にして置いておきます。<br/>
 <img width="768" height="1024" alt="BFF9B41A-E880-4579-9699-A5601D2CA592_1_105_c" src="https://github.com/user-attachments/assets/dbb5d09a-3417-4517-8a73-77959e63e7f1" /> <br/>
+<br/>
+<br/>
+
+ケースに座金を付けたボルトを通します。<br/>
+<img width="768" height="1024" alt="0F23D987-27D6-4CF7-B76B-7BB45066C634_1_105_c" src="https://github.com/user-attachments/assets/91c783bd-f200-4f9b-b908-5ec8f941367b" /> <br/>
+この時ドライバーなどを使うとすんなり通せます。<br/>
+<br/>
+<br/>
+
+取っ手の穴をあてがい軽く締めます。<br/>
+<img width="1024" height="768" alt="F0097ABC-4AE7-4CA0-8C44-9EA5B1B6DA6A_1_105_c" src="https://github.com/user-attachments/assets/e2629868-1241-4851-89dc-2ce1cfdec77f" /> <br/>
+この時締めすぎると逆側が付けられなくる事があるのでこの時点では軽めに。<br/>
+<br/>
+<br/>
+
+同じ要領で逆側も締めます。<br/>
+<img width="1024" height="768" alt="6F01E6BC-A76A-4B40-AD7F-A4C7E4046E7D_1_105_c" src="https://github.com/user-attachments/assets/7dbc9b6e-4460-4fe3-bf74-f267a76cb358" /> <br/>
+ある程度締まったら逆側も本締めしてしっかりととめます。<br/>
+<br/>
+<br/>
+
+
 
 
 
