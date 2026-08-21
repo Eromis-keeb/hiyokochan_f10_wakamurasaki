@@ -246,21 +246,33 @@ MXキーキャップ |x10
 <br/>
 次にミドルプレート上を取り付けます。 <br/>
 <img width="1024" height="768" alt="C4C1BBCA-E06A-4CC3-8A23-4ED69EC36C55_1_105_c" src="https://github.com/user-attachments/assets/872390b0-6c0b-4314-8e46-92af54281ee6" /> <br/>
-２ー２までに作ったものの上にミドルプレート上を乗せてスペーサーを差し込む形で取り付けます。<br/>
 <br/>
 <br/>
 
- <br/>
+ミドルプレート上にインジケーターバーパーツを取り付けます。<br/>
 <img width="3024" height="4032" alt="B6B88341-4A60-4F40-BCDE-0DD99C9A1979_1_201_a" src="https://github.com/user-attachments/assets/27acf7cd-e01d-4427-a29b-8e9b1eb6d0cd" /> <br/>
+ミドルプレート上を裏返します。<br/>
+写真のように緑枠内の部分にインジケーターバーパーツを嵌め込みます。 <br/>
+嵌まりにくい場合は少し強めに力を入れると嵌まります。<br/>
+逆に緩い場合はスリットにかからないようにマスキングテープなどで補強して留めてください。 <br/>
+<br/>
+<br/>
 
+インジケーターバー取り付け完了。 <br/>
 <img width="3024" height="4032" alt="E6C1EC1D-FC48-492A-9375-8FF296193F0D_1_201_a" src="https://github.com/user-attachments/assets/68b1f75b-d092-4b85-97e5-7f70ca76412a" /> <br/>
+<br/>
+<br/>
 
+２ー２までに作ったものの上にミドルプレート上を乗せてスペーサーを差し込む形で取り付けます。<br/>
 <img width="4032" height="3024" alt="54F33E00-9C45-4D0A-9A91-1E4CA626B3E7_1_201_a" src="https://github.com/user-attachments/assets/b9733988-e75c-448d-a7d0-4dbf5c38fe67" /> <br/>
-
-
+<br/>
 
 <img width="4032" height="3024" alt="54F33E00-9C45-4D0A-9A91-1E4CA626B3E7_1_201_a" src="https://github.com/user-attachments/assets/a8c3316d-5968-4bfc-9045-da56afb47043" /> <br/>
+ミドルプレート下のときと同様に差し込み辛い場合はあらかじめ一つづつスペーサーをプレートに通してからやるとスムーズに組み付けできます。 <br/>
+<br/>
+<br/>
 
+ミドルプレート上組み付け完了。<br/>
 <img width="1024" height="768" alt="194D1A51-03DD-4769-A544-EFDD2E293FFC_1_105_c" src="https://github.com/user-attachments/assets/12c5db06-fe4f-499d-9803-441c0e6573c8" /> <br/>
 
 
