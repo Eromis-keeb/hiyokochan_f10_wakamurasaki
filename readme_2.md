@@ -4,6 +4,7 @@
 
 
 
+
 # 若紫,夕顔,松風 共通 ケース・組込みビルドガイド
 若紫は以下の特徴を備えるマクロパッドです。
 - テンキー配列の10キー
@@ -408,8 +409,60 @@ https://note.com/eromis_sumomorry/n/nddd1c667d807?sub_rt=share_pw <br/>
 <br/>
 <br/>
 
+続いて本体を固定する為のマグネットを仕込みます。<br/>
+<img width="1024" height="768" alt="4742A94B-E805-4EB8-BEED-45CAD7CA7B76_1_105_c" src="https://github.com/user-attachments/assets/e4bcc37a-7c48-489b-bcf2-6f007e0f1583" /> <br/>
+マグネットx４、マグネット用カバーx４ <br/>
+<br/>
+<br/>
 
+部品を確認します。 <br/>
+<img width="768" height="1024" alt="EB563F61-4AA8-4945-8166-E5D48FD74A3A_1_105_c" src="https://github.com/user-attachments/assets/b4b106e7-6d39-424c-9e61-97ed3cde968c" /> <br/>
+<br/>
+<br/>
 
+マグネットを本体の脚四隅に付けて磁石の方向を確認しておきます。<br/>
+<img width="768" height="1024" alt="38216007-8874-4CCF-8BA5-531B6C57F532_1_105_c" src="https://github.com/user-attachments/assets/056792b1-96e3-4e86-9971-3ecc8fe924f5" /> <br/>
+<br/>
+<br/>
+
+続いて仕込むマグネットを組み立てます。<br/>
+<img width="768" height="1024" alt="77F8F4A6-6B89-4384-8BB4-382652BEE8F5_1_105_c" src="https://github.com/user-attachments/assets/1f59c564-896c-4906-901a-a7e94cc59110" /> <br/>
+<br/>
+<br/>
+
+マグネット用カバーには裏表があります。<br/>
+<img width="3024" height="4032" alt="4C198406-0768-4872-A0AD-979D34A8BE7A_1_201_a" src="https://github.com/user-attachments/assets/9bbec060-4a3d-413c-837b-a1afb80a25d5" />　<br/>
+赤枠の開口部が狭い方が上面<br/>
+青枠の開口部が広い方が底面です。<br/>
+<br/>
+<br/>
+
+下の写真のように被せます。<br/>
+<img width="3024" height="4032" alt="1BA53109-AF34-4991-B36C-4C0B1D9CF3A7_1_201_a" src="https://github.com/user-attachments/assets/e31aa218-892e-4a9f-b183-1d9c7ef31306" />　<br/>
+向きを慎重に確認しながら緑矢印のように上から被せます。<br/>
+<br/>
+<br/>
+
+同じ容量で４つ作ります。<br/>
+<img width="768" height="1024" alt="4C71880A-A9B3-4632-9D88-69D521B701AA_1_105_c" src="https://github.com/user-attachments/assets/cb042b56-3789-400c-97b5-bcfd0a10d8e9" />　<br/>
+<br/>
+<br/>
+
+一度本体にくっ付けて確認します。<br/>
+<img width="768" height="1024" alt="DD2A5C4E-6B5F-447F-AD61-6A59267ACE48_1_105_c" src="https://github.com/user-attachments/assets/f77997a1-75e2-4443-b577-3b936e274e85" /> <br/>
+本体を普通に置く形で水平にしてもマグネットカバーが落下しないのが正しい向きです。<br/>
+<br/>
+<br/>
+
+本体を横に裏返して置き、マグネットの対応位置を確認します。<br/>
+<img width="1024" height="768" alt="D83EEA92-2E2D-487D-A82C-A35B4DA3A3F2_1_105_c" src="https://github.com/user-attachments/assets/bd53c980-b96e-489a-b931-00b9420238b4" /> <br/>
+<br/>
+<br/>
+
+確認できたらマグネットを埋め込んでいきます。<br/>
+<img width="4032" height="3024" alt="3518ABA6-44DD-4891-B2CF-8A50363D1AC5_1_201_a" src="https://github.com/user-attachments/assets/9186c37d-91a4-4492-a342-7b7be79caa4c" /> <br/>
+<br/>
+<br/>
 
 
 
