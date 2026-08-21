@@ -213,32 +213,55 @@ MXキーキャップ |x10
 全体を差し込むとすんなり入ると思います。<br/>
 無理に強行するとアクリルが割れます。<br/>
 注意して差し込んでください。 <br/>
-![IMG_7155](https://github.com/user-attachments/assets/d451e68c-95c6-4c60-9c7d-0b79141ccdcf)<br/>
-
+![IMG_7155](https://github.com/user-attachments/assets/d451e68c-95c6-4c60-9c7d-0b79141ccdcf) <br/>
 <br/>
 <br/>
- 
-<img width="768" height="1024" alt="95E9BBB1-7182-4DC9-8EB6-4A8C3A51A9C3_1_105_c" src="https://github.com/user-attachments/assets/cccda228-ea41-4ff3-b087-1599144630d5" />
 
-<img width="1024" height="768" alt="6B176C75-2DBB-4626-890A-CAA626E52C60_1_105_c" src="https://github.com/user-attachments/assets/928c76b7-14b7-4cfa-9c53-25ea9e101aec" />
+ミドルプレート下の取り付け完了 <br/>
+<img width="768" height="1024" alt="95E9BBB1-7182-4DC9-8EB6-4A8C3A51A9C3_1_105_c" src="https://github.com/user-attachments/assets/cccda228-ea41-4ff3-b087-1599144630d5" /> <br/>
+<br/>
+<br/>
 
-<img width="4032" height="3024" alt="1A9771D5-B89D-4186-951F-3F35BF6891DC_1_201_a" src="https://github.com/user-attachments/assets/bb549cc6-12a9-44b7-bd5a-2d7fc0eacb51" />
+#### ２-2.基板の取り付け<br/>
+<br/>
+<br/>
+次に基板を取り付けていきます。 <br/>
+<img width="1024" height="768" alt="6B176C75-2DBB-4626-890A-CAA626E52C60_1_105_c" src="https://github.com/user-attachments/assets/928c76b7-14b7-4cfa-9c53-25ea9e101aec" /> <br/>
+<br/>
 
-<img width="1024" height="768" alt="5F996B35-2EB8-46E6-895A-13D9396B8370_1_105_c" src="https://github.com/user-attachments/assets/ec564f0c-ef99-4af3-8a1f-cdb4e8cf22ee" />
+基板をミドルプレートの上に乗せます。　<br/>
+<img width="4032" height="3024" alt="1A9771D5-B89D-4186-951F-3F35BF6891DC_1_201_a" src="https://github.com/user-attachments/assets/bb549cc6-12a9-44b7-bd5a-2d7fc0eacb51" /> <br/>
+向きが間違っていなければすんなり嵌るはずです。<br/>
+カポッと軽く嵌まらなければ組み付けの向きが間違っている可能性があります。無理やりやらずに戻って確認してください。<br/>
+<br/>
+<br/>
 
-<img width="1024" height="768" alt="C4C1BBCA-E06A-4CC3-8A23-4ED69EC36C55_1_105_c" src="https://github.com/user-attachments/assets/872390b0-6c0b-4314-8e46-92af54281ee6" />
+基板の取り付け完了<br/>
+<img width="1024" height="768" alt="5F996B35-2EB8-46E6-895A-13D9396B8370_1_105_c" src="https://github.com/user-attachments/assets/ec564f0c-ef99-4af3-8a1f-cdb4e8cf22ee" />　<br/>
+<br/>
+<br/>
 
-<img width="3024" height="4032" alt="B6B88341-4A60-4F40-BCDE-0DD99C9A1979_1_201_a" src="https://github.com/user-attachments/assets/27acf7cd-e01d-4427-a29b-8e9b1eb6d0cd" />
+#### ２-3.ミドルプレート上の取り付け<br/>
+<br/>
+<br/>
+次にミドルプレート上を取り付けます。 <br/>
+<img width="1024" height="768" alt="C4C1BBCA-E06A-4CC3-8A23-4ED69EC36C55_1_105_c" src="https://github.com/user-attachments/assets/872390b0-6c0b-4314-8e46-92af54281ee6" /> <br/>
+２ー２までに作ったものの上にミドルプレート上を乗せてスペーサーを差し込む形で取り付けます。<br/>
+<br/>
+<br/>
 
-<img width="3024" height="4032" alt="E6C1EC1D-FC48-492A-9375-8FF296193F0D_1_201_a" src="https://github.com/user-attachments/assets/68b1f75b-d092-4b85-97e5-7f70ca76412a" />
+ <br/>
+<img width="3024" height="4032" alt="B6B88341-4A60-4F40-BCDE-0DD99C9A1979_1_201_a" src="https://github.com/user-attachments/assets/27acf7cd-e01d-4427-a29b-8e9b1eb6d0cd" /> <br/>
 
-<img width="4032" height="3024" alt="54F33E00-9C45-4D0A-9A91-1E4CA626B3E7_1_201_a" src="https://github.com/user-attachments/assets/b9733988-e75c-448d-a7d0-4dbf5c38fe67" />
+<img width="3024" height="4032" alt="E6C1EC1D-FC48-492A-9375-8FF296193F0D_1_201_a" src="https://github.com/user-attachments/assets/68b1f75b-d092-4b85-97e5-7f70ca76412a" /> <br/>
+
+<img width="4032" height="3024" alt="54F33E00-9C45-4D0A-9A91-1E4CA626B3E7_1_201_a" src="https://github.com/user-attachments/assets/b9733988-e75c-448d-a7d0-4dbf5c38fe67" /> <br/>
 
 
 
-<img width="4032" height="3024" alt="54F33E00-9C45-4D0A-9A91-1E4CA626B3E7_1_201_a" src="https://github.com/user-attachments/assets/a8c3316d-5968-4bfc-9045-da56afb47043" />
+<img width="4032" height="3024" alt="54F33E00-9C45-4D0A-9A91-1E4CA626B3E7_1_201_a" src="https://github.com/user-attachments/assets/a8c3316d-5968-4bfc-9045-da56afb47043" /> <br/>
 
-<img width="1024" height="768" alt="194D1A51-03DD-4769-A544-EFDD2E293FFC_1_105_c" src="https://github.com/user-attachments/assets/12c5db06-fe4f-499d-9803-441c0e6573c8" />
+<img width="1024" height="768" alt="194D1A51-03DD-4769-A544-EFDD2E293FFC_1_105_c" src="https://github.com/user-attachments/assets/12c5db06-fe4f-499d-9803-441c0e6573c8" /> <br/>
 
 
 
