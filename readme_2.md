@@ -355,7 +355,47 @@ PCに繋ぎ動作確認を取ってください。<br/>
 →こちら<br/>
 https://note.com/eromis_sumomorry/n/nddd1c667d807?sub_rt=share_pw <br/>
 <br/>
+<br/>
 
-
+続いてはおまけの取っ手付きケースの組み立てガイドです。<br/>
+なくても使用は可能ですが作者おすすめですのでぜひ作ってみて頂きたいと思います。<br/>
 
 ### ５.取っ手付きケースの組み立て
+
+キットによってはすでに完成、または途中まで組み上げた状態でお届けすることがあります。<br/>
+<br/>
+組み立てに必要な部品<br/>
+<img width="768" height="1024" alt="683BAB69-4B69-401F-957C-C650F8DC28EC_1_105_c" src="https://github.com/user-attachments/assets/d8011766-69c8-4733-a5ac-a9cdfd4440aa" /> <br/>
+ボルトx２、座金x２、ケース本体、取っ手<br/>
+<br/>
+<br/>
+
+ボルトに座金を通します。<br/>
+<img width="768" height="1024" alt="3E29E969-A738-4E65-8C36-CCBD802A715C_1_105_c" src="https://github.com/user-attachments/assets/e3100f42-4ddd-42f2-b240-28488bfded91" /> <br/>
+<br/>
+
+矢印で示すように通します。<br/>
+<img width="3024" height="4032" alt="6C9B0F94-0E76-4FC8-A0D6-9E1964FBD7D3_1_201_a" src="https://github.com/user-attachments/assets/bfe9f813-4462-4e52-89bc-f8a530dc2673" /> <br/>
+向きは特にありません。<br/>
+<br/>
+<br/>
+
+座金を通した所<br/>
+<img width="768" height="1024" alt="F5B135D7-1848-42C6-A521-CBB9A14ED6C2_1_105_c" src="https://github.com/user-attachments/assets/ff2fb0b4-3a08-4413-a72a-5435092244db" /> <br/>
+<br/>
+<br/>
+
+
+<img width="768" height="1024" alt="BFF9B41A-E880-4579-9699-A5601D2CA592_1_105_c" src="https://github.com/user-attachments/assets/dbb5d09a-3417-4517-8a73-77959e63e7f1" /> <br/>
+
+
+
+
+
+
+
+
+
+
+
+
