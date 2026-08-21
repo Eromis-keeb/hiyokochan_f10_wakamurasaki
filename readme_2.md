@@ -468,6 +468,7 @@ https://note.com/eromis_sumomorry/n/nddd1c667d807?sub_rt=share_pw <br/>
 
 対応する位置にマグネットを置き、<br/>
 <img width="1024" height="768" alt="0F9AFC79-7620-44A5-9418-BA1297D6AD4C_1_105_c" src="https://github.com/user-attachments/assets/a20cf953-c508-44d3-a257-29a3605075e1" /> <br/>
+裏表注意してください。間違えて押し込むと中々取れなくなります。<br/>
 <br/>
 <br/>
 押し込みツールを使って垂直に押し込みます。<br/>
