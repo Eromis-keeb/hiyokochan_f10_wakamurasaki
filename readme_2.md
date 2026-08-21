@@ -464,6 +464,41 @@ https://note.com/eromis_sumomorry/n/nddd1c667d807?sub_rt=share_pw <br/>
 <br/>
 <br/>
 
+対応する位置にマグネットを置き、<br/>
+<img width="1024" height="768" alt="0F9AFC79-7620-44A5-9418-BA1297D6AD4C_1_105_c" src="https://github.com/user-attachments/assets/a20cf953-c508-44d3-a257-29a3605075e1" /> <br/>
+<br/>
+<br/>
+押し込みツールを使って垂直に押し込みます。<br/>
+<img width="1024" height="768" alt="59E2EBBB-5CEF-4588-B09C-591574C6B355_1_105_c" src="https://github.com/user-attachments/assets/2820da2a-bbd6-482c-80e7-0d6bfdb9074f" /> <br/>
+<br/>
+<br/>
+大体平らになっていればOK<br/>
+<img width="1024" height="768" alt="62A7B734-01C2-4032-AE4D-C7D204ACF158_1_105_c" src="https://github.com/user-attachments/assets/6aa4a3d3-fc3d-425f-a7e6-ee43966e4274" /> <br/>
+<br/>
+<br/>
+
+残りの３箇所も同じ要領で押し込んでいきます。<br/>
+<img width="1024" height="768" alt="72008648-EDAC-40B1-ABA9-C4CA549E0FFC_1_105_c" src="https://github.com/user-attachments/assets/0b2ea7aa-50a7-4155-936d-828974bcd12e" /> <br/>
+<br/>
+<br/>
+
+完成。<br/>
+<img width="768" height="1024" alt="B589EEE2-BA69-412A-8CC6-A1690D003813_1_105_c" src="https://github.com/user-attachments/assets/d1f12ab4-83dd-4c72-97a2-e85357c0c6d0" /> <br/>
+<br/>
+<br/>
+
+最後に本体をドッキングさせれば出来上がりです。<br/>
+<img width="768" height="1024" alt="F33A2307-53A1-44BE-8FC6-58CA4F093147_1_105_c" src="https://github.com/user-attachments/assets/7c765249-f5da-48c2-8696-d8bcfa5000ef" /> <br/>
+尚、取り付ける際は上側から斜めに差し込むようにして下側を倒すように嵌め込むと楽にできます。<br/>
+外す時は背面の穴から押し出すようにしてください。<br/>
+ある程度しっかりくっ付いていますが逆さにして激しく降ると取れるので、振り回せるほどではありませんので注意。<br/>
+<br/>
+<br/>
+
+
+
+
+
 
 
 
