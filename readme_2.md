@@ -1,6 +1,7 @@
-![IMG_7523](https://github.com/user-attachments/assets/d4d43ece-ee6e-4344-96e7-f05b38fbfb13)
 
-# 若紫,夕顔,松風 共通 ビルドガイド
+
+
+# 若紫,夕顔,松風 共通 ケース・組込みビルドガイド
 若紫は以下の特徴を備えるマクロパッドです。
 - テンキー配列の10キー
 - 3つのロータリーエンコーダー（プッシュボタン付き）
@@ -17,6 +18,8 @@ vialのソフトウェアから自由にキーマップを変更可能です。 
 
 
 ## 組み立てにあたって
+
+<img width="1024" height="768" alt="5E71160D-2920-4F10-9ACA-105B6139C252_1_105_c" src="https://github.com/user-attachments/assets/0c5dab31-8806-4757-b30f-486f515857ba" />
 <br/>
 本キットには基板完成済みの通常版と基板の組み立てが必要なチャレンジキットがあります。<br/>
 →こちら<br/>
@@ -64,6 +67,15 @@ MXキーキャップ |x10
 <br/>
 
 ### 1.ボトムプレートの組み立て
+<img width="1024" height="768" alt="3B385812-37E2-4249-B79A-B397F9491C2E_1_105_c" src="https://github.com/user-attachments/assets/353951be-cd65-4993-b83c-48145d3f97c3" />
+<img width="1024" height="768" alt="BAB4D48F-6B53-43CD-A5A4-15063EB05923_1_105_c" src="https://github.com/user-attachments/assets/04ffae0a-1a61-4eda-823b-e327d368c84b" />
+<img width="4032" height="3024" alt="3D85E10E-7033-4DA5-844B-C60AE2930741_1_201_a" src="https://github.com/user-attachments/assets/5bbe2c71-aa01-46a5-9705-5eb852528da1" />
+<img width="3024" height="4032" alt="7386E9FB-65FB-4E94-9F0C-DC86050F54E5_1_201_a" src="https://github.com/user-attachments/assets/12fde933-7fd9-48ba-992e-bc86391891bb" />
+<img width="768" height="1024" alt="89FED13F-75E0-4C19-8C53-208BA437D89F_1_105_c" src="https://github.com/user-attachments/assets/63d47d40-c4c0-43c9-8848-d719e3885b3a" />
+<img width="768" height="1024" alt="1E1E7649-2C07-46B9-9E78-ABA967FD5426_1_105_c" src="https://github.com/user-attachments/assets/f0f2959b-1438-411e-9f47-ddf04c2cad5e" />
+<img width="3024" height="4032" alt="1E1E7649-2C07-46B9-9E78-ABA967FD5426_1_201_a" src="https://github.com/user-attachments/assets/67a77d89-b6a7-4ed2-907b-5e2d0e8b20aa" />
+<img width="768" height="1024" alt="22C73C22-2449-4EC3-9B27-5FEA223553B6_1_105_c" src="https://github.com/user-attachments/assets/0c04971e-b00a-4a38-a797-aad67548f0a9" />
+
 
 ### 2.基板の組み付け
 
