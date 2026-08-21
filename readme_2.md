@@ -70,30 +70,78 @@ MXキーキャップ |x10
 <br/>
 
 ### 1.ボトムプレートの組み立て
-<img width="1024" height="768" alt="3B385812-37E2-4249-B79A-B397F9491C2E_1_105_c" src="https://github.com/user-attachments/assets/353951be-cd65-4993-b83c-48145d3f97c3" />
+#### 1-1.脚の組み立て<br/>
+ボトムプレートを組み立てていきます。<br/>
+<br/>
+<br/>
 
-<img width="1024" height="768" alt="BAB4D48F-6B53-43CD-A5A4-15063EB05923_1_105_c" src="https://github.com/user-attachments/assets/04ffae0a-1a61-4eda-823b-e327d368c84b" />
+<img width="1024" height="768" alt="3B385812-37E2-4249-B79A-B397F9491C2E_1_105_c" src="https://github.com/user-attachments/assets/353951be-cd65-4993-b83c-48145d3f97c3" /> <br/>
+<br/>
+<br/>
 
-<img width="4032" height="3024" alt="3D85E10E-7033-4DA5-844B-C60AE2930741_1_201_a" src="https://github.com/user-attachments/assets/5bbe2c71-aa01-46a5-9705-5eb852528da1" />
+まず初めにマグネット脚を組み立てます。<br/>
+<img width="1024" height="768" alt="BAB4D48F-6B53-43CD-A5A4-15063EB05923_1_105_c" src="https://github.com/user-attachments/assets/04ffae0a-1a61-4eda-823b-e327d368c84b" /> <br/>
+ネオジムマグネット（穴あき）４つ、マグネット脚用カバー４つ、ボトム用ネジ（８mm）４つ用意します。<br/>
+<br/>
+<br/>
 
-<img width="3024" height="4032" alt="7386E9FB-65FB-4E94-9F0C-DC86050F54E5_1_201_a" src="https://github.com/user-attachments/assets/12fde933-7fd9-48ba-992e-bc86391891bb" />
+マグネット脚用カバーの表裏を確認します。<br/>
+<img width="4032" height="3024" alt="3D85E10E-7033-4DA5-844B-C60AE2930741_1_201_a" src="https://github.com/user-attachments/assets/5bbe2c71-aa01-46a5-9705-5eb852528da1" /> <br/>
+でこぼこした面が底面、若干穴が広くなっている方が上面です。<br/>
+<br/>
+<br/>
 
-<img width="768" height="1024" alt="89FED13F-75E0-4C19-8C53-208BA437D89F_1_105_c" src="https://github.com/user-attachments/assets/63d47d40-c4c0-43c9-8848-d719e3885b3a" />
+ネオジムマグネット（穴あき）をカバーに嵌め込みます。<br/>
+<img width="3024" height="4032" alt="7386E9FB-65FB-4E94-9F0C-DC86050F54E5_1_201_a" src="https://github.com/user-attachments/assets/12fde933-7fd9-48ba-992e-bc86391891bb" /> <br/>
+上面（穴の広い方）を上に穴あきマグネットの窪んでいる方が上になるように嵌め込みます。<br>
+<br/>
+<br/>
 
-<img width="768" height="1024" alt="1E1E7649-2C07-46B9-9E78-ABA967FD5426_1_105_c" src="https://github.com/user-attachments/assets/f0f2959b-1438-411e-9f47-ddf04c2cad5e" />
+持ち上げた時にマグネットが落下しないのが正解の向きです。<br/>
+<img width="768" height="1024" alt="89FED13F-75E0-4C19-8C53-208BA437D89F_1_105_c" src="https://github.com/user-attachments/assets/63d47d40-c4c0-43c9-8848-d719e3885b3a" /> <br/>
+<br/>
+<br/>
 
-<img width="3024" height="4032" alt="1E1E7649-2C07-46B9-9E78-ABA967FD5426_1_201_a" src="https://github.com/user-attachments/assets/67a77d89-b6a7-4ed2-907b-5e2d0e8b20aa" />
+カバーに嵌め込んだマグネット脚にネジを入れます。<br/>
+<img width="768" height="1024" alt="1E1E7649-2C07-46B9-9E78-ABA967FD5426_1_105_c" src="https://github.com/user-attachments/assets/f0f2959b-1438-411e-9f47-ddf04c2cad5e" /> <br/>
+<br/>
+<br/>
 
-<img width="768" height="1024" alt="22C73C22-2449-4EC3-9B27-5FEA223553B6_1_105_c" src="https://github.com/user-attachments/assets/0c04971e-b00a-4a38-a797-aad67548f0a9" />
+<img width="3024" height="4032" alt="1E1E7649-2C07-46B9-9E78-ABA967FD5426_1_201_a" src="https://github.com/user-attachments/assets/67a77d89-b6a7-4ed2-907b-5e2d0e8b20aa" /> <br/>
+<br/>
+<br/>
 
+マグネットの窪みにネジ頭がはまるように差し込みます。<br/>
+<img width="768" height="1024" alt="22C73C22-2449-4EC3-9B27-5FEA223553B6_1_105_c" src="https://github.com/user-attachments/assets/0c04971e-b00a-4a38-a797-aad67548f0a9" /> <br/>
+持ち上げた際にネジが落下しなければ正解の向きです。<br/>
+<br/>
+<br/>
 
-<img width="1024" height="768" alt="7019172F-A643-4C4D-9239-FC0337A2584E_1_105_c" src="https://github.com/user-attachments/assets/cdf6bb52-05e5-4771-b01e-3125df0587c0" />
+同様に残り３つを作成します。<br/>
+<img width="1024" height="768" alt="7019172F-A643-4C4D-9239-FC0337A2584E_1_105_c" src="https://github.com/user-attachments/assets/cdf6bb52-05e5-4771-b01e-3125df0587c0" /> <br/>
+マグネット脚のできあがり。<br/>
+<br/>
+<br/>
 
-<img width="1024" height="768" alt="354A4D05-CDDB-4463-B3B3-B86F9B601560_1_105_c" src="https://github.com/user-attachments/assets/44908989-16b5-4e3b-becb-fef16dad86a5" />
+#### 1-2.スペーサー取り付け<br/>
+<img width="1024" height="768" alt="354A4D05-CDDB-4463-B3B3-B86F9B601560_1_105_c" src="https://github.com/user-attachments/assets/44908989-16b5-4e3b-becb-fef16dad86a5" /> <br/>
+ボトムプレートと１−１で作成したマグネット脚を用意します。<br/>
+<br/>
+<br/>
 
-<img width="4032" height="3024" alt="B7173BBF-B541-4CDE-928F-803535075C77_1_201_a" src="https://github.com/user-attachments/assets/fbd69656-92b2-49e0-b0b3-2522296bb691" />
+ボトムプレートのシートを剥がします。<br/>
+<img width="4032" height="3024" alt="B7173BBF-B541-4CDE-928F-803535075C77_1_201_a" src="https://github.com/user-attachments/assets/fbd69656-92b2-49e0-b0b3-2522296bb691" /> <br/>
+裏表があるので気をつけてください。切り欠きが左側に来る状態が正しい向きです。<br/>
+<br/>
+<br/>
 
-<img width="4032" height="3024" alt="06A1CAE0-88FF-4FC0-A884-6E38A3CE27E6_1_201_a" src="https://github.com/user-attachments/assets/952a828e-1677-4766-b8f5-746c1f144c82" />
+６箇所にスペーサーを取り付けていきます。<br/>
+<img width="4032" height="3024" alt="06A1CAE0-88FF-4FC0-A884-6E38A3CE27E6_1_201_a" src="https://github.com/user-attachments/assets/952a828e-1677-4766-b8f5-746c1f144c82" /> <br/>
+青枠部分の６箇所にスペーサーをネジで取り付けます。<br/>
+ボトム用ネジ（8mm）を２本用意します。 <br/>
+<br/>
+<br/>
+
 
 <img width="4032" height="3024" alt="8A3CE902-C2DF-4C0B-9669-FC1B9F5914F4_1_201_a" src="https://github.com/user-attachments/assets/2bdb6795-25c9-448c-96d6-c83a75b8a407" />
 
