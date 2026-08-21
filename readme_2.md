@@ -42,6 +42,7 @@ https://github.com/Eromis-keeb/hiyokochan_f10_wakamurasaki/blob/ac473d99715d367b
 カスタムミドルプレート上|x1
 カスタムミドルプレート下|x1
 ボトムプレート（アクリル）|x1
+インジケーターバー（レジン）|x1
 スペーサー（9mm）|x6
 トップ用ネジ（5mm）|x6
 ボトム用ネジ（8mm）|x6
@@ -273,37 +274,43 @@ MXキーキャップ |x10
 
 ミドルプレート上組み付け完了。<br/>
 <img width="1024" height="768" alt="194D1A51-03DD-4769-A544-EFDD2E293FFC_1_105_c" src="https://github.com/user-attachments/assets/12c5db06-fe4f-499d-9803-441c0e6573c8" /> <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
 
 
 ### 3.トッププレートの取り付け
+2-3までに作った本体にトッププレートを取り付けていきます。<br/>
+<br/>
+
+<img width="1024" height="768" alt="88AF1C7F-B106-4304-A05C-04D1353E6571_1_105_c" src="https://github.com/user-attachments/assets/045a6dba-f8c5-494d-8734-9d939debbc09" /> <br/>
+トップ用ネジ（5mm）を６本用意します。<br/>
+トッププレートのフィルムを剥がします。<br/>
+<br/>
+<br/>
+
+裏表に注意してトッププレートを本体に乗せます。<br/>
+<img width="1024" height="768" alt="F659118D-63A7-4F28-9385-391F5161828B_1_105_c" src="https://github.com/user-attachments/assets/71e0fc7a-d21a-4308-97ce-3c09bbf6d5df" /> <br/>
+※裏表が違うとネジ穴が合いません。<br/>
+<br/>
+<br/>
+
+トッププレートを載せたらネジ止めしていきます。<br/>
+<img width="1024" height="768" alt="9685B174-E480-4726-BCA6-D20768C895E7_1_105_c" src="https://github.com/user-attachments/assets/4adcbcfd-bb58-45be-9f6b-63980ad08966" /> <br/>
+<br/>
+<br/>
+
+スペーサーの穴が見えている部分にネジ止めします。<br/>
+<img width="768" height="1024" alt="05D33CBA-0150-461E-A1E4-CA97F436D66D_1_105_c" src="https://github.com/user-attachments/assets/4e78fb0f-a343-4c3a-9832-539942e17138" /> <br/>
+青枠内の６箇所に5mmネジで止めます。<br/>
+最初は軽く締めて対角を少しずつ絞めるのがポイントです。<br/>
+<br/>
+<br/>
+
+これで本体は完成です！<br/>
+<img width="768" height="1024" alt="9C4A4B2B-13B7-4023-B05A-D2D864FA4B05_1_105_c" src="https://github.com/user-attachments/assets/a4c6496a-72c8-4979-ba0c-a8e716d7854b" /> <br/>
+<br/>
+<br/>
+
 
 ### 4.仕上げ
 
