@@ -71,8 +71,8 @@ MXキーキャップ |x10
 
 ### 1.ボトムプレートの組み立て
 #### 1-1.脚の組み立て<br/>
-ボトムプレートを組み立てていきます。<br/>
 <br/>
+ボトムプレートを組み立てていきます。<br/>
 <br/>
 
 <img width="1024" height="768" alt="3B385812-37E2-4249-B79A-B397F9491C2E_1_105_c" src="https://github.com/user-attachments/assets/353951be-cd65-4993-b83c-48145d3f97c3" /> <br/>
@@ -124,6 +124,8 @@ MXキーキャップ |x10
 <br/>
 
 #### 1-2.スペーサー取り付け<br/>
+<br/>
+
 <img width="1024" height="768" alt="354A4D05-CDDB-4463-B3B3-B86F9B601560_1_105_c" src="https://github.com/user-attachments/assets/44908989-16b5-4e3b-becb-fef16dad86a5" /> <br/>
 ボトムプレートと１−１で作成したマグネット脚を用意します。<br/>
 <br/>
@@ -192,7 +194,6 @@ MXキーキャップ |x10
 ### 2.基板の組み付け
 #### ２-1.ミドルプレートの取り付け<br/>
 <br/>
-<br/>
 
 1ー2までに作ったボトムプレートにミドルプレートを組み付けていきます。<br/>
 <img width="1024" height="768" alt="4AC758EF-DF96-43F8-9C15-A85DCB240132_1_105_c" src="https://github.com/user-attachments/assets/ddc1873d-ca1a-4cc1-8f5e-cdf2704ee5f7" /> <br/>
@@ -224,7 +225,6 @@ MXキーキャップ |x10
 
 #### ２-2.基板の取り付け<br/>
 <br/>
-<br/>
 次に基板を取り付けていきます。 <br/>
 <img width="1024" height="768" alt="6B176C75-2DBB-4626-890A-CAA626E52C60_1_105_c" src="https://github.com/user-attachments/assets/928c76b7-14b7-4cfa-9c53-25ea9e101aec" /> <br/>
 <br/>
@@ -242,7 +242,6 @@ MXキーキャップ |x10
 <br/>
 
 #### ２-3.ミドルプレート上の取り付け<br/>
-<br/>
 <br/>
 次にミドルプレート上を取り付けます。 <br/>
 <img width="1024" height="768" alt="C4C1BBCA-E06A-4CC3-8A23-4ED69EC36C55_1_105_c" src="https://github.com/user-attachments/assets/872390b0-6c0b-4314-8e46-92af54281ee6" /> <br/>
